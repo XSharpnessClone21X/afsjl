@@ -1,0 +1,1 @@
+bash /usr/bin/google-chrome --ignore-gpu-blocklist --password-store=basic --start-maximized 
